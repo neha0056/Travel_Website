@@ -21,4 +21,9 @@ Easy-to-navigate interface with a clean and modern look.
 Clone the repository to your local machine.  
 Set up your web server and database.  
 Configure the database connection in the PHP files.  
-Open the website in your browser and explore the features!  
+Open the website in your browser and explore the features!    
+📷 Screenshots
+![image](https://github.com/neha0056/Web-Development-Projects/assets/172585428/509faeff-c3a0-4f6c-a4cc-c89437c7f064)
+![image](https://github.com/neha0056/Web-Development-Projects/assets/172585428/6a004b88-41cc-4862-b500-bf1b6f8333a5)
+
+
