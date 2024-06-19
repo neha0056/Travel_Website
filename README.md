@@ -2,9 +2,9 @@
 Welcome to my travel website project! This project showcases a simple and user-friendly travel website built using HTML, CSS, PHP, and SQL. The website includes six main pages, each designed to enhance the user experience and provide essential functionalities.
 
 📄 Pages
-🏠 Home: The landing page that welcomes users with an overview of the website and its features.
-📝 Registration: A page where new users can sign up by providing their details.
-🔐 Login: Allows registered users to log in to their accounts.
+🏠 Home: The landing page that welcomes users with an overview of the website and its features.          
+📝 Registration: A page where new users can sign up by providing their details.  
+🔐 Login: Allows registered users to log in to their accounts.  
 ❓ Forgot Password: Helps users recover their passwords through a secure process.
 👤 View Profile: Displays the user's profile information.
 📚 Learn More: Provides additional information about travel destinations and tips.
