@@ -15,7 +15,7 @@ include_once "base.php";
     <div class="title">Discover The World</div>
     <div class="sub_title">Enjoy Each Second With Nature</div>
     <div class="btns">
-      <button>Learn More</button>
+      <button onclick="location.href='member.html'">Learn More</button>
       <button onclick="location.href='form.php'">Register</button>
     </div>
   </div>
